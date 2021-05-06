@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "puntos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nombre": "AutoMercado" }, "geometry": { "type": "Point", "coordinates": [ -84.193866573060944, 9.954108903111081 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "Panasonic" }, "geometry": { "type": "Point", "coordinates": [ -84.198833512755797, 9.97824686219583 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Vindi" }, "geometry": { "type": "Point", "coordinates": [ -84.195379737133223, 9.961978211181744 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "Pizza Hut" }, "geometry": { "type": "Point", "coordinates": [ -84.191124497489355, 9.945664678182462 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nombre": "Cruz Roja" }, "geometry": { "type": "Point", "coordinates": [ -84.188380284680349, 9.933696148797429 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nombre": "Iglesia Salitral" }, "geometry": { "type": "Point", "coordinates": [ -84.179053380709618, 9.912511851785922 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "Maxi Palí" }, "geometry": { "type": "Point", "coordinates": [ -84.1824045689374, 9.931755537247144 ] } },
+{ "type": "Feature", "properties": { "id": 8, "nombre": "Iglesia Pozos" }, "geometry": { "type": "Point", "coordinates": [ -84.189534392871096, 9.949434764938754 ] } },
+{ "type": "Feature", "properties": { "id": 9, "nombre": "Cruce Lindora" }, "geometry": { "type": "Point", "coordinates": [ -84.205320028235022, 9.951734432370598 ] } }
+]
+}
